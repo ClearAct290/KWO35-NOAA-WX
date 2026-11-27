@@ -1,6 +1,6 @@
 <h1>NOAA WX KWO35 Receiver</h1>
 <br>
-<p>Opus 24 Kbps VBR: http://69.113.244.134:5655</p>
+<p>Opus 24 Kbps VBR: http://69.113.244.134:5655 (WeatherUSA Icecast Mirror: https://radio-master.weatherusa.net/NWR/KWO35_2.ogg)</p>
 <p>μ-law PCM 128 kbps: tcp://69.113.244.134:5650</p>
 <br>
 <h2>Hardware:</h2>
